@@ -137,14 +137,3 @@ View traces for failed tests:
 ```bash
 npx playwright show-trace test-results/*/trace.zip
 ```
-
-## Contributing
-
-1. Follow the existing project structure
-2. Add new fixtures to `fixtures/customFixtures.js`
-3. Create page objects in the `pages/` directory
-4. Update this README for new features
-
-## License
-
-ISC
